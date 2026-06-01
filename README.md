@@ -49,8 +49,8 @@ React-based grocery shopping application.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/lavanyaag23
-- LinkedIn: Add your LinkedIn link
-- Email: Add your email
+- LinkedIn: www.linkedin.com/in/lavanya-agrawal-06b57b320
+- Email: lavanya.kanak.agrawal@gmail.com
 
 ---
 
