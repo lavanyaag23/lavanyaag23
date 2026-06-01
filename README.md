@@ -26,10 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true)
 ### Frontend
 
 * HTML
