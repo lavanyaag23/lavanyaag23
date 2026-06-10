@@ -1,6 +1,3 @@
-## 📊 GitHub Stats
-
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight)
 
 # Hi 👋, I'm Lavanya Agrawal
 
@@ -45,6 +42,23 @@
 * Linux
 
 ---
+
+## 📊 GitHub Stats
+
+![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=lavanyaag23&color=blue)
+
 
 ## 🚀 Featured Projects
 
