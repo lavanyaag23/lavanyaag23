@@ -83,7 +83,7 @@ Collection of frontend projects built while learning web development:
 * Star Rating System
 * ChatBot
 * Voting App
-* Business Website
+* Website
 * Calculator UI
 
 ### 🧮 Linux Calculator
