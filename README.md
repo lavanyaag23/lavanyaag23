@@ -43,17 +43,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight)
 
-## 💻 Most Used Languages
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 👀 Profile Views
 
