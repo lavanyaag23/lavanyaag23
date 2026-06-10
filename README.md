@@ -1,3 +1,7 @@
+## 📊 GitHub Stats
+
+![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight)
+
 # Hi 👋, I'm Lavanya Agrawal
 
 ### 🚀 B.Tech CSE Student | Java Developer | Frontend Developer | DSA Learner
