@@ -57,10 +57,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=lavanyaag23&color=blue)
