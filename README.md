@@ -1,82 +1,114 @@
 # Hi 👋, I'm Lavanya Agrawal
 
-### 🚀 B.Tech Computer Science Student | Frontend Developer | Java & DSA Learner
+### 🚀 B.Tech CSE Student | Java Developer | Frontend Developer | DSA Learner
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Learning Data Structures & Algorithms in Java
-* 🌱 Exploring React.js and Frontend Development
-* 🎯 Preparing for Internships and Placements
-* ⚡ Interested in Software Development and Problem Solving
+🎓 B.Tech Computer Science Engineering Student at UPES, Dehradun
+
+💻 Currently learning Data Structures & Algorithms using Java
+
+🌐 Building responsive web applications using React.js, HTML, CSS, and JavaScript
+
+📚 Solving coding problems and maintaining a structured DSA repository on GitHub
+
+🚀 Preparing for Software Development Internships and Placement Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+* Java
+* Python
+* JavaScript
+* SQL
 
-### Frontend
+### Frontend Development
 
-* HTML
-* CSS
-* React
+* HTML5
+* CSS3
+* React.js
 
-### Tools
+### Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
+* Linux
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Quantum Tic-Tac-Toe
+### 🛒 Smart Grocery App
 
-Python implementation featuring:
+A React-based grocery shopping application featuring:
 
-* Smart AI
-* Random AI
-* Quantum Collapse Mechanics
-* Object-Oriented Design
+* User Authentication
+* Shopping Cart Management
+* Order Tracking
+* Admin Dashboard
+* AI Chatbot
+* Responsive Design
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing:
+
+* Projects
+* Skills
+* Education
+* Contact Information
+
+### 💻 Java DSA Repository
+
+A structured collection of Data Structures and Algorithms implementations in Java, including:
+
+* Arrays
+* ArrayList
+* Strings
+* Linked Lists
+* Trees
+* Graphs
+* Dynamic Programming
+
+### ⭐ Frontend Mini Projects
+
+Collection of frontend projects built while learning web development:
+
+* Star Rating System
+* ChatBot
+* Voting App
+* Business Website
+* Calculator UI
 
 ### 🧮 Linux Calculator
 
-Shell scripting project featuring:
-
-* Arithmetic Operations
-* CLI Interface
-* Linux Environment Support
-
-### 🛒 Smart Grocery App
-
-Frontend project featuring:
-
-* Modern UI
-* Responsive Design
-* React Components
-
-### 🌐 Portfolio Website
-
-Currently building a responsive portfolio website to showcase projects and skills.
+Menu-driven calculator built using Bash Shell Scripting.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms in Java
+* Data Structures & Algorithms
+* ArrayList & Problem Solving
 * React.js
-* Problem Solving
 * Git & GitHub
+* LeetCode
+
+---
+
+## 📊 2026 Goals
+
+* Solve 200+ DSA Problems
+* Strengthen Java Fundamentals
+* Build More Full-Stack Projects
+* Contribute Consistently on GitHub
+* Secure a Software Development Internship
 
 ---
 
@@ -84,8 +116,8 @@ Currently building a responsive portfolio website to showcase projects and skill
 
 * GitHub: github.com/lavanyaag23
 * LinkedIn: linkedin.com/in/lavanya-agrawal-06b57b320
-* Email: [lavanya.kanak.agrawal@gmail.com](mailto:lavanya.kanak.agrawal@gmail.com)
+* Email: [lavanyaagrawal259@gmail.com](mailto:lavanyaagrawal259@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Always learning, building, and improving one commit at a time.
