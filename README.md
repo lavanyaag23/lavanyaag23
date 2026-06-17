@@ -1,146 +1,148 @@
+<div align="center">
 
-# Hi 👋, I'm Lavanya Agrawal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Lavanya%20Agrawal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20DSA%20Learner&descAlignY=58&descSize=16&descColor=e0deff" />
 
-### 🚀 B.Tech CSE Student | Java Developer | Frontend Developer | DSA Learner
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lavanya+%F0%9F%91%8B;B.Tech+CSE+Student+%40+UPES+Dehradun;Java+%7C+React+%7C+DSA+Enthusiast;100+Days+of+Code+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/lavanyaag23?label=Followers&style=flat&color=7F77DD&labelColor=0d1117)](https://github.com/lavanyaag23)
+[![Profile Views](https://komarev.com/ghpvc/?username=lavanyaag23&color=7F77DD&style=flat&label=Profile+Views)](https://github.com/lavanyaag23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7F77DD?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D9E75?style=flat&logo=vercel&logoColor=white)](https://lavanyaagrawal.vercel.app)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student at UPES, Dehradun
+```java
+public class Lavanya {
 
-💻 Currently learning Data Structures & Algorithms using Java
+    String name        = "Lavanya Agrawal";
+    String university  = "UPES Dehradun — B.Tech CSE (3rd Year)";
+    String[] focus     = { "DSA in Java", "Frontend Dev", "Full-Stack", "Open Source" };
+    String challenge   = "100 Days of Code 🔥";
+    String goal        = "Software Engineer @ a product-driven company";
+    String funFact     = "I debug with coffee ☕ and commit at midnight 🌙";
 
-🌐 Building responsive web applications using React.js, HTML, CSS, and JavaScript
-
-📚 Solving coding problems and maintaining a structured DSA repository on GitHub
-
-🚀 Preparing for Software Development Internships and Placement Opportunities
+    String[] currentlyWorking = {
+        "Java DSA structured repository",
+        "React.js frontend projects",
+        "JavaScript games & mini apps",
+        "LeetCode daily problem solving",
+        "Open source contributions"
+    };
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode" />
-</p>
 
-### Languages
+<div align="center">
 
-* Java
-* Python
-* JavaScript
-* SQL
+**Languages**
 
-### Frontend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* HTML5
-* CSS3
-* React.js
+**Frontend**
 
-### Tools & Platforms
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-* Git
-* GitHub
-* VS Code
-* Linux
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight)
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight"/>
-</p>
-
-
-## 🏆 GitHub Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=lavanyaag23&color=blue)
-
 ## 🚀 Featured Projects
 
-### 🛒 Smart Grocery App
+<div align="center">
 
-A React-based grocery shopping application featuring:
+| Project | Description | Tech |
+|--------|------------|------|
+| 🛒 **Smart Grocery App** | React app with auth, cart, order tracking, admin dashboard & AI chatbot | `React` `JavaScript` `AI` |
+| 🌐 **Portfolio Website** | Responsive personal portfolio deployed on Vercel | `HTML` `CSS` `JS` `Vercel` |
+| 💻 **Java DSA Repo** | Structured collection: Arrays → DP → Graphs, growing daily | `Java` `DSA` |
+| ⭐ **Frontend Mini Projects** | Star rating, chatbot, voting app, calculator UI | `HTML` `CSS` `JS` |
+| 🧮 **Linux Calculator** | Menu-driven calculator via Bash shell scripting | `Bash` `Linux` |
 
-* User Authentication
-* Shopping Cart Management
-* Order Tracking
-* Admin Dashboard
-* AI Chatbot
-* Responsive Design
+</div>
 
-### 🌐 Personal Portfolio Website
+---
 
-A responsive portfolio website showcasing:
+## 📊 GitHub Stats
 
-* Projects
-* Skills
-* Education
-* Contact Information
+<div align="center">
 
-### 💻 Java DSA Repository
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD" />
 
-A structured collection of Data Structures and Algorithms implementations in Java, including:
+<br/>
 
-* Arrays
-* ArrayList
-* Strings
-* Linked Lists
-* Trees
-* Graphs
-* Dynamic Programming
+![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
 
-### ⭐ Frontend Mini Projects
+<br/>
 
-Collection of frontend projects built while learning web development:
+[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-* Star Rating System
-* ChatBot
-* Voting App
-* Website
-* Calculator UI
-
-### 🧮 Linux Calculator
-
-Menu-driven calculator built using Bash Shell Scripting.
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-* Data Structures & Algorithms
-* ArrayList & Problem Solving
-* React.js
-* Git & GitHub
-* LeetCode
+- 🔢 Data Structures & Algorithms (Arrays → DP → Graphs)
+- ⚛️ React.js — hooks, components, state management
+- 🧩 Problem solving on LeetCode
+- 🤝 Open Source contribution workflow
+- 🌐 Full-Stack development basics
 
 ---
 
-## 📊 2026 Goals
+## 📈 2026 Goals
 
-* Solve 200+ DSA Problems
-* Strengthen Java Fundamentals
-* Build More Full-Stack Projects
-* Contribute Consistently on GitHub
-* Secure a Software Development Internship
-
----
-
-## 📫 Connect With Me
-
-* GitHub: github.com/lavanyaag23
-* LinkedIn: linkedin.com/in/lavanya-agrawal-06b57b320
-* Email: [lavanyaagrawal259@gmail.com](mailto:lavanyaagrawal259@gmail.com)
+| Goal | Status |
+|------|--------|
+| ✅ Solve 200+ DSA problems | 🔄 In Progress |
+| ✅ Complete 100 Days of Code | 🔄 In Progress |
+| ✅ Strengthen Java fundamentals | 🔄 In Progress |
+| ✅ Build 3+ full-stack projects | 🔄 In Progress |
+| ✅ Contribute to open source | 🔄 In Progress |
+| ✅ Secure SDE internship | 🎯 Target |
 
 ---
 
-⭐ Always learning, building, and improving one commit at a time.
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-lavanyaag23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaag23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lavanyaagrawal.vercel.app-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://lavanyaagrawal.vercel.app)
+[![Email](https://img.shields.io/badge/Email-lavanyaagrawal259%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyaagrawal259@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer&fontSize=16&fontColor=ffffff" />
+
+*⭐ Always learning, building, and improving — one commit at a time.*
+
+</div>
