@@ -96,12 +96,16 @@ public class Lavanya {
 ![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
 
 <br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Lavanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F77DD&line=7F77DD&point=FFFFFF)](https://github.com/lavanyaag23)
+
+</div>
 
 ## 🌱 Currently Learning
 
