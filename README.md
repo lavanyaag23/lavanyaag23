@@ -1,120 +1,100 @@
-
-```text
-Learn the concept
-      ↓
-Build a small version
-      ↓
-Refactor for clarity
-      ↓
-Document the approach
-      ↓
-Ship it publicly
-```
-
-I use projects as proof of learning. Every repository is a chance to improve structure, naming, documentation, UI polish, and problem-solving discipline.
-
----
-
-## GitHub Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=ffffff" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=ffffff" alt="Top languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=220&section=header&text=Lavanya%20Agrawal&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20DSA%20Learner&descAlignY=58&descSize=17&descColor=eaf7ff" alt="Lavanya Agrawal banner" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=7F77DD&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Lavanya+Agrawal;B.Tech+CSE+Student+at+UPES+Dehradun;Java+%7C+React+%7C+DSA+%7C+Frontend+Development;Building+projects+that+turn+practice+into+proof;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
 
 <br/>
-<br/>
 
-<img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=7F77DD&sideLabels=ffffff&dates=9ca3af" alt="GitHub streak" />
+[![GitHub followers](https://img.shields.io/github/followers/lavanyaag23?label=Followers&style=for-the-badge&color=7F77DD&labelColor=0d1117)](https://github.com/lavanyaag23)
+[![Profile Views](https://komarev.com/ghpvc/?username=lavanyaag23&color=7F77DD&style=for-the-badge&label=Profile+Views)](https://github.com/lavanyaag23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://lavanyaagrawal.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyaagrawal259@gmail.com)
 
 </div>
 
 ---
 
-## Contribution Activity
+## Quick Navigation
 
 <div align="center">
 
-[![Lavanya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7F77DD&line=1D9E75&point=FFFFFF)](https://github.com/lavanyaag23)
+[About](#about-me) •
+[Tech Stack](#tech-stack) •
+[Projects](#featured-projects) •
+[GitHub Analytics](#github-analytics) •
+[Learning Roadmap](#learning-roadmap) •
+[Goals](#2026-goals) •
+[Contact](#connect-with-me)
 
 </div>
 
 ---
 
-## GitHub Trophies
+## About Me
 
-<div align="center">
+```java
+public class LavanyaAgrawal {
 
-<img src="https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
+    private final String role = "B.Tech CSE Student";
+    private final String university = "UPES Dehradun";
+    private final String primaryLanguage = "Java";
+    private final String currentMode = "DSA + Frontend + Full-Stack Foundations";
 
-</div>
+    private final String[] building = {
+        "Structured Java DSA repository",
+        "React frontend projects",
+        "JavaScript games and mini apps",
+        "Portfolio-ready full-stack projects"
+    };
 
----
+    private final String[] strengths = {
+        "Consistent problem solving",
+        "Clean UI implementation",
+        "Project-based learning",
+        "Fast debugging and iteration"
+    };
 
-## Learning Roadmap
-
-```mermaid
-flowchart LR
-    A[Java Fundamentals] --> B[DSA Patterns]
-    B --> C[Problem Solving Speed]
-    C --> D[React Projects]
-    D --> E[Full-Stack Basics]
-    E --> F[Open Source Contributions]
-    F --> G[SDE Internship Ready]
+    private final String goal =
+        "Grow into a software engineer who builds useful, reliable, user-focused products.";
+}
 ```
 
-| Track | Topics |
-|---|---|
-| Java DSA | Arrays, Strings, Recursion, OOP, Trees, Graphs, Dynamic Programming |
-| React | Components, props, hooks, state, forms, routing, project structure |
-| Web Fundamentals | Semantic HTML, responsive CSS, DOM, accessibility basics |
-| Full-Stack Basics | APIs, auth flow, database concepts, deployment |
-| Open Source | Issues, pull requests, clean commits, collaboration workflow |
+I am a Computer Science student focused on strengthening my fundamentals through Java, Data Structures and Algorithms, and practical frontend development. I enjoy turning concepts into projects, documenting my learning, and building a portfolio that shows steady progress.
 
 ---
 
-## 2026 Goals
+## Developer Snapshot
 
-| Goal | Status |
-|---|---|
-| Solve 200+ DSA problems | In Progress |
-| Complete 100 Days of Code | In Progress |
-| Strengthen Java fundamentals | In Progress |
-| Build 3+ full-stack projects | In Progress |
-| Contribute to open source | In Progress |
-| Secure an SDE internship | Target |
-
----
-
-## Current Practice Loop
-
-```text
-DSA problem of the day
-Frontend implementation practice
-Project improvement or documentation
-GitHub commit with clear message
-Weekly review of progress and gaps
-```
+<table>
+  <tr>
+    <td><b>Primary Focus</b></td>
+    <td>Java DSA, React.js, Frontend Development, Full-Stack Basics</td>
+  </tr>
+  <tr>
+    <td><b>Currently Building</b></td>
+    <td>DSA repository, smart grocery app, portfolio projects, JavaScript mini apps</td>
+  </tr>
+  <tr>
+    <td><b>Learning Style</b></td>
+    <td>Code daily, build small, refactor often, document clearly</td>
+  </tr>
+  <tr>
+    <td><b>Career Target</b></td>
+    <td>SDE internship and product-focused software engineering roles</td>
+  </tr>
+</table>
 
 ---
 
-## Connect With Me
+## Tech Stack
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lavanyaag23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaag23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lavanyaagrawal.vercel.app-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://lavanyaagrawal.vercel.app)
-[![Email](https://img.shields.io/badge/Email-lavanyaagrawal259%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyaagrawal259@gmail.com)
+### Languages
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=110&section=footer" alt="Footer wave" />
-
-<b>Always learning, always building, always improving.</b>
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
