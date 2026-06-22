@@ -127,19 +127,6 @@ public class Lavanya {
 - 🌐 Full-Stack development basics
 
 ---
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/lavanyaag07/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://github.com/lavanyaag23">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ## 📈 2026 Goals
 
