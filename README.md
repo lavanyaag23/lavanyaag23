@@ -78,7 +78,7 @@ public class Lavanya {
 | 🌐 **Portfolio Website** | Responsive personal portfolio deployed on Vercel | `HTML` `CSS` `JS` `Vercel` |
 | 💻 **Java DSA Repo** | Structured collection: Arrays → DP → Graphs, growing daily | `Java` `DSA` |
 | ⭐ **Frontend Mini Projects** | Star rating, chatbot, voting app, calculator UI | `HTML` `CSS` `JS` |
-| 🧮 **Linux Calculator** | Menu-driven calculator via Bash shell scripting | `Bash` `Linux` |
+
 
 </div>
 
@@ -97,12 +97,23 @@ public class Lavanya {
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+## 📈 Contribution Activity
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+</div>
 ---
+## 🏆 GitHub Achievements
 
+- 🦈 Pull Shark Achievement
+- 🔥 Active Open Source Contributor
+- 💯 100 Days of Code Participant
+- 🚀 Building Public Projects Consistently
+- 
 ## 🌱 Currently Learning
 
 - 🔢 Data Structures & Algorithms (Arrays → DP → Graphs)
@@ -112,6 +123,15 @@ public class Lavanya {
 - 🌐 Full-Stack development basics
 
 ---
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaag23)
+
+</div>
 
 ## 📈 2026 Goals
 
