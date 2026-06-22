@@ -99,7 +99,7 @@ public class Lavanya {
 
 
 </div>
-## 📈 Contribution Activity
+##📈Contribution Activity
 
 <div align="center">
 
@@ -107,14 +107,16 @@ public class Lavanya {
 
 </div>
 ---
-## 🏆 GitHub Achievements
+
+##🏆GitHub Achievements
 
 - 🦈 Pull Shark Achievement
 - 🔥 Active Open Source Contributor
 - 💯 100 Days of Code Participant
 - 🚀 Building Public Projects Consistently
 - 
-## 🌱 Currently Learning
+## 🌱 Currently Learning 
+
 
 - 🔢 Data Structures & Algorithms (Arrays → DP → Graphs)
 - ⚛️ React.js — hooks, components, state management
