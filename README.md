@@ -99,16 +99,18 @@ public class Lavanya {
 
 
 </div>
-##📈Contribution Activity
+
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 </div>
+
 ---
 
-##🏆GitHub Achievements
+## 🏆 GitHub Achievements
 
 - 🦈 Pull Shark Achievement
 - 🔥 Active Open Source Contributor
@@ -129,9 +131,13 @@ public class Lavanya {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
+<a href="https://leetcode.com/u/lavanyaag07/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaag23)
+<a href="https://github.com/lavanyaag23">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
