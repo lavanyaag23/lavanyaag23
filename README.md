@@ -83,8 +83,7 @@ public class Lavanya {
 |:---:|--------|------------|------|
 | 🛒 | **Smart Grocery App** | React app with auth, cart, order tracking, admin dashboard & AI chatbot | `React` `JavaScript` `AI` |
 | 🌐 | **Portfolio Website** | Responsive personal portfolio deployed on Vercel | `HTML` `CSS` `JS` `Vercel` |
-| 🎮 | **Fun Game Collection** | A growing collection of interactive browser games, creative experiments,
-                                 unlockable level and engaging web experiences built for fun and learning | `HTML` `CSS` `JavaScript` |
+| 🎮 | **Fun Game Collection** | A growing collection of interactive browser games built for fun and learning | `HTML` `CSS` `JavaScript` |
 | ⭐ | **Frontend Mini Projects** | Star rating, chatbot, voting app, calculator UI | `HTML` `CSS` `JS` |
 
 </div>
