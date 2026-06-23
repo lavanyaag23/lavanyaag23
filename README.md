@@ -1,15 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Lavanya%20Agrawal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20DSA%20Learner&descAlignY=58&descSize=16&descColor=e0deff" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lavanya+%F0%9F%91%8B;B.Tech+CSE+Student+%40+UPES+Dehradun;Java+%7C+React+%7C+DSA+Enthusiast;100+Days+of+Code+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Lavanya%20Agrawal&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=✦%20B.Tech%20CSE%20%7C%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20DSA%20Learner%20✦&descAlignY=60&descSize=16&descColor=c9b8ff" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/lavanyaag23?label=Followers&style=flat&color=7F77DD&labelColor=0d1117)](https://github.com/lavanyaag23)
-[![Profile Views](https://komarev.com/ghpvc/?username=lavanyaag23&color=7F77DD&style=flat&label=Profile+Views)](https://github.com/lavanyaag23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7F77DD?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D9E75?style=flat&logo=vercel&logoColor=white)](https://lavanyaagrawal.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Lavanya+%F0%9F%91%8B;B.Tech+CSE+Student+%40+UPES+Dehradun+%F0%9F%8E%93;Java+%7C+React+%7C+DSA+Enthusiast+%F0%9F%92%BB;100+Days+of+Code+%F0%9F%94%A5+%E2%80%94+Active+%26+Grinding;Open+Source+Contributor+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/lavanyaag23?label=Followers&style=flat-square&color=A78BFA&labelColor=0d1117&logo=github&logoColor=A78BFA)](https://github.com/lavanyaag23)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=lavanyaag23&color=A78BFA&style=flat-square&label=Profile+Views)](https://github.com/lavanyaag23)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-34d399?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117)](https://lavanyaagrawal.vercel.app)
+
+<br/>
 
 </div>
 
@@ -43,20 +50,20 @@ public class Lavanya {
 
 <div align="center">
 
-**Languages**
+**— Languages —**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**
+**— Frontend —**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Tools & Platforms**
+**— Tools & Platforms —**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -72,13 +79,12 @@ public class Lavanya {
 
 <div align="center">
 
-| Project | Description | Tech |
-|--------|------------|------|
-| 🛒 **Smart Grocery App** | React app with auth, cart, order tracking, admin dashboard & AI chatbot | `React` `JavaScript` `AI` |
-| 🌐 **Portfolio Website** | Responsive personal portfolio deployed on Vercel | `HTML` `CSS` `JS` `Vercel` |
-| 💻 **Java DSA Repo** | Structured collection: Arrays → DP → Graphs, growing daily | `Java` `DSA` |
-| ⭐ **Frontend Mini Projects** | Star rating, chatbot, voting app, calculator UI | `HTML` `CSS` `JS` |
-
+| &nbsp; | Project | Description | Tech |
+|:---:|--------|------------|------|
+| 🛒 | **Smart Grocery App** | React app with auth, cart, order tracking, admin dashboard & AI chatbot | `React` `JavaScript` `AI` |
+| 🌐 | **Portfolio Website** | Responsive personal portfolio deployed on Vercel | `HTML` `CSS` `JS` `Vercel` |
+| 💻 | **Java DSA Repo** | Structured collection: Arrays → DP → Graphs, growing daily | `Java` `DSA` |
+| ⭐ | **Frontend Mini Projects** | Star rating, chatbot, voting app, calculator UI | `HTML` `CSS` `JS` |
 
 </div>
 
@@ -88,23 +94,23 @@ public class Lavanya {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD)
-
-<br/>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9)
 
 </div>
+
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" />
 
 </div>
 
@@ -112,32 +118,41 @@ public class Lavanya {
 
 ## 🏆 GitHub Achievements
 
-- 🦈 Pull Shark Achievement
-- 🔥 Active Open Source Contributor
-- 💯 100 Days of Code Participant
-- 🚀 Building Public Projects Consistently
-- 
-## 🌱 Currently Learning 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&column=6&margin-w=8&title_color=A78BFA)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔢 Data Structures & Algorithms (Arrays → DP → Graphs)
-- ⚛️ React.js — hooks, components, state management
-- 🧩 Problem solving on LeetCode
-- 🤝 Open Source contribution workflow
-- 🌐 Full-Stack development basics
+</div>
+
+| Achievement | Details |
+|:-----------:|---------|
+| 🦈 | **Pull Shark** — Merged pull requests in open source |
+| 🔥 | **Active Contributor** — Consistent GitHub activity |
+| 💯 | **100 Days of Code** — Active participant & grinding daily |
+| 🚀 | **Public Builder** — Shipping projects consistently |
+
+---
+
+## 🌱 Currently Learning
+
+- 🔢 **Data Structures & Algorithms** — Arrays → DP → Graphs
+- ⚛️ **React.js** — hooks, components, state management
+- 🧩 **Problem Solving** on LeetCode daily
+- 🤝 **Open Source** contribution workflow
+- 🌐 **Full-Stack** development basics
 
 ---
 
 ## 📈 2026 Goals
 
 | Goal | Status |
-|------|--------|
-| ✅ Solve 200+ DSA problems | 🔄 In Progress |
-| ✅ Complete 100 Days of Code | 🔄 In Progress |
-| ✅ Strengthen Java fundamentals | 🔄 In Progress |
-| ✅ Build 3+ full-stack projects | 🔄 In Progress |
-| ✅ Contribute to open source | 🔄 In Progress |
-| ✅ Secure SDE internship | 🎯 Target |
+|------|:------:|
+| 🎯 Solve 200+ DSA problems | 🔄 In Progress |
+| 🔥 Complete 100 Days of Code | 🔄 In Progress |
+| ☕ Strengthen Java fundamentals | 🔄 In Progress |
+| 🛠️ Build 3+ full-stack projects | 🔄 In Progress |
+| 🤝 Contribute to open source | 🔄 In Progress |
+| 💼 Secure SDE internship | 🎯 Target |
 
 ---
 
@@ -145,19 +160,15 @@ public class Lavanya {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lavanyaag23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanyaag23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lavanyaagrawal.vercel.app-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://lavanyaagrawal.vercel.app)
-[![Email](https://img.shields.io/badge/Email-lavanyaagrawal259%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyaagrawal259@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lavanyaag23-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/lavanyaag23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/lavanya-agrawal-06b57b320)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lavanyaagrawal.vercel.app-A78BFA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://lavanyaagrawal.vercel.app)
+[![Email](https://img.shields.io/badge/Email-lavanyaagrawal259-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:lavanyaagrawal259@gmail.com)
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer&fontSize=16&fontColor=ffffff" />
-
-*⭐ Always learning, building, and improving — one commit at a time.*
+*✦ Always learning, building, and improving — one commit at a time. ✦*
 
 </div>
