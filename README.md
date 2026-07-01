@@ -94,8 +94,6 @@ public class Lavanya {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" />
-
 &nbsp;
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" />
