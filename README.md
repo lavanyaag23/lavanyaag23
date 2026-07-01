@@ -94,13 +94,15 @@ public class Lavanya {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" />
+
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" />
 
 <br/><br/>
 
-https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&cache_seconds=1
+<img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
