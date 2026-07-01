@@ -118,12 +118,6 @@ public class Lavanya {
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&column=6&margin-w=8&title_color=A78BFA)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 | Achievement | Details |
 |:-----------:|---------|
 | 🦈 | **Pull Shark** — Merged pull requests in open source |
