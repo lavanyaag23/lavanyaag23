@@ -150,7 +150,7 @@ public class Lavanya {
 | 🎯 Solve 200+ DSA problems | 🔄 In Progress |
 | 🔥 Complete 100 Days of Code | 🔄 In Progress |
 | ☕ Strengthen Java fundamentals | 🔄 In Progress |
-| 🛠️ Build 3+ full-stack projects | 🔄 In Progress |
+| 🛠️ Build 3+ projects | 🔄 In Progress |
 | 🤝 Contribute to open source | 🔄 In Progress |
 | 💼 Secure SDE internship | 🎯 Target |
 
