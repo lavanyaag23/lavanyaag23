@@ -74,22 +74,18 @@ public class Lavanya {
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | &nbsp; | Project | Description | Tech |
 |:---:|--------|------------|------|
-| 🛒 | **Smart Grocery App** | React app with authentication, cart, order tracking, admin dashboard & AI chatbot | `React` `JavaScript` `AI` |
-| 🌐 | **Portfolio Website** | Responsive personal portfolio deployed on Vercel | `HTML` `CSS` `JavaScript` `Vercel` |
-| 🎮 | **CodeQuest Arena** | Interactive browser games, coding challenges, and fun learning experiences | `HTML` `CSS` `JavaScript` |
-| 🎓 | **Smart Attendance System** | AI-powered attendance management with face detection, proxy prevention,
-                                    chatbot assistance, and automated record management | `Java` `OpenCV` `Python` `SQLite` `AI` |
+| 🛒 | **Smart Grocery App** | Grocery platform with auth, cart, dashboard & AI chatbot | `React` `JavaScript` `AI` |
+| 🌐 | **Portfolio Website** | Responsive personal portfolio hosted on Vercel | `HTML` `CSS` `JavaScript` |
+| 🎮 | **CodeQuest Arena** | Interactive browser games and coding challenges | `HTML` `CSS` `JavaScript` |
+| 🎓 | **Smart Attendance System** | Face recognition attendance with proxy detection & chatbot | `Java` `OpenCV` `Python` `SQLite` |
 
 </div>
-
----
 ---
 
 ## 📊 GitHub Stats
