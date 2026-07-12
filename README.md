@@ -88,43 +88,60 @@ public class Lavanya {
 </div>
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<!-- Profile Summary -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaag23&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" />
+<!-- Repositories & Languages -->
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanyaag23&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavanyaag23&theme=tokyonight" />
+
+<br><br>
+
+<!-- Stats -->
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" />
+<img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Activity
 
-| Achievement | Details |
-|:-----------:|---------|
-| 🦈 | **Pull Shark** — Merged pull requests in open source |
-| 🔥 | **Active Contributor** — Consistent GitHub activity |
-| 💯 | **100 Days of Code** — Active participant & grinding daily |
-| 🚀 | **Public Builder** — Shipping projects consistently |
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" />
+
+</div>
 
 ---
+## 🏆 GitHub Achievements
 
+<div align="center">
+
+🦈 **Pull Shark ×2** &nbsp;&nbsp;|&nbsp;&nbsp;
+⚡ **Quickdraw** &nbsp;&nbsp;|&nbsp;&nbsp;
+💻 **100 Days of Code** &nbsp;&nbsp;|&nbsp;&nbsp;
+🚀 **Open Source Contributor**
+
+</div>
+
+---
 ## 🌱 Currently Learning
 
 - 🔢 **Data Structures & Algorithms** — Arrays → DP → Graphs
@@ -132,6 +149,17 @@ public class Lavanya {
 - 🧩 **Problem Solving** on LeetCode daily
 - 🤝 **Open Source** contribution workflow
 - 🌐 **Full-Stack** development basics
+
+---
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-lavanyaag07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lavanyaag07/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-lavanyaag23-181717?style=for-the-badge&logo=github)](https://github.com/lavanyaag23)
+
+</div>
 
 ---
 
