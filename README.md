@@ -34,9 +34,19 @@ public class Lavanya {
     String challenge   = "100 Days of Code 🔥";
     String goal        = "Software Engineer @ a product-driven company";
     String funFact     = "I debug with coffee ☕ and commit at midnight 🌙";
+
+    String[] currentlyBuilding = {
+        "CodeQuest Arena — a multi-game browser hub with dark-neon UI",
+        "Personal portfolio site — dark gold/rose editorial theme + VFX",
+        "Java DSA structured repository",
+        "LeetCode daily problem solving"
     };
 
-    String currentFocus = "Building projects & solving LeetCode";
+    String[] leadership = {
+        "ACM CSR Core Member",
+        "Edge Pod Lead",
+        "Class Representative"
+    };
 }
 ```
 
@@ -94,12 +104,11 @@ public class Lavanya {
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -117,6 +126,28 @@ public class Lavanya {
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lavanyaag23/lavanyaag23/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>✨ Powered by the <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">snake action</a> — add this workflow to your profile repo to activate it.</sub>
 
 </div>
 
