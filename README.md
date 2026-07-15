@@ -120,8 +120,6 @@ public class Lavanya {
 
 </div>
 
-# 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" /> </div> 
 ---
 
 ## 📈 Contribution Activity
