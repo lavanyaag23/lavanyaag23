@@ -122,16 +122,6 @@ public class Lavanya {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" />
-
-</div>
-
----
-
 ## 🏅 GitHub Achievements
 
 <div align="center">
