@@ -18,9 +18,9 @@
 
 <br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
----
+</div>
 
 ## 👩‍💻 About Me
 
@@ -29,20 +29,32 @@ public class Lavanya {
 
     String name        = "Lavanya Agrawal";
     String university  = "UPES Dehradun — B.Tech CSE (3rd Year)";
+    double cgpa        = 8.84;
     String[] focus     = { "DSA in Java", "Frontend Dev", "Full-Stack", "Open Source" };
     String challenge   = "100 Days of Code 🔥";
     String goal        = "Software Engineer @ a product-driven company";
     String funFact     = "I debug with coffee ☕ and commit at midnight 🌙";
 
-    String[] currentlyWorking = {
+    String[] currentlyBuilding = {
+        "CodeQuest Arena — a multi-game browser hub with dark-neon UI",
+        "Personal portfolio site — dark gold/rose editorial theme + VFX",
         "Java DSA structured repository",
-        "React.js frontend projects",
-        "JavaScript games & mini apps",
-        "LeetCode daily problem solving",
-        "Open source contributions"
+        "LeetCode daily problem solving"
+    };
+
+    String[] leadership = {
+        "ACM CSR Core Member",
+        "Edge Pod Lead",
+        "Class Representative"
     };
 }
 ```
+
+<div align="center">
+
+> *"Code is a craft — I'm here to keep sharpening it, one project at a time."*
+
+</div>
 
 ---
 
@@ -74,36 +86,37 @@ public class Lavanya {
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | &nbsp; | Project | Description | Tech |
 |:---:|--------|------------|------|
+| 🎮 | **[CodeQuest Arena](https://github.com/lavanyaag23)** | Multi-game browser hub with a dark-neon design system | `HTML` `CSS` `JavaScript` |
+| 🌐 | **[Portfolio Website](https://lavanyaagrawal.vercel.app)** | Dark gold/rose editorial portfolio with rich VFX & animations | `HTML` `CSS` `JavaScript` |
 | 🛒 | **Smart Grocery App** | Grocery platform with auth, cart, dashboard & AI chatbot | `React` `JavaScript` `AI` |
-| 🌐 | **Portfolio Website** | Responsive personal portfolio hosted on Vercel | `HTML` `CSS` `JavaScript` |
-| 🎮 | **CodeQuest Arena** | Interactive browser games and coding challenges | `HTML` `CSS` `JavaScript` |
 | 🎓 | **Smart Attendance System** | Face recognition attendance with proxy detection & chatbot | `Java` `OpenCV` `Python` `SQLite` |
 
 </div>
+
+> 💡 **Currently shipping:** CodeQuest Arena and my portfolio site — both actively iterated on, live, and evolving weekly.
+
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Profile Summary -->
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaag23&theme=tokyonight" />
 
 <br><br>
 
-<!-- Repositories & Languages -->
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanyaag23&theme=tokyonight" />
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavanyaag23&theme=tokyonight" />
 
 <br><br>
 
-<!-- Stats -->
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" />
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" />
 
@@ -111,7 +124,17 @@ public class Lavanya {
 
 ---
 
-# 🔥 GitHub Streak
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -121,7 +144,7 @@ public class Lavanya {
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -130,7 +153,20 @@ public class Lavanya {
 </div>
 
 ---
-## 🏆 GitHub Achievements
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lavanyaag23/lavanyaag23/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>✨ Powered by the <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">snake action</a> — add this workflow to your profile repo to activate it.</sub>
+
+</div>
+
+---
+
+## 🏅 GitHub Achievements
 
 <div align="center">
 
@@ -142,6 +178,7 @@ public class Lavanya {
 </div>
 
 ---
+
 ## 🌱 Currently Learning
 
 - 🔢 **Data Structures & Algorithms** — Arrays → DP → Graphs
@@ -151,6 +188,7 @@ public class Lavanya {
 - 🌐 **Full-Stack** development basics
 
 ---
+
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -191,4 +229,4 @@ public class Lavanya {
 
 *✦ Always learning, building, and improving — one commit at a time. ✦*
 
-</div> how can we make it more attractive
+</div>
