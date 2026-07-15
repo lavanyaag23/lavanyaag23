@@ -104,7 +104,14 @@ public class Lavanya {
 
 ---
 
- <!-- Stats --><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" /><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" /> </div> --- # 🔥 GitHub Streak <div align="center"> <img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" /> </div> --- # 📈 Contribution Activity <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" /> </div> ---
+# 📊 GitHub Analytics
+<div align="center">
+<!-- Profile Summary --><img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaag23&theme=tokyonight" /> <br><br>
+<!-- Repositories & Languages --><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanyaag23&theme=tokyonight" /><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavanyaag23&theme=tokyonight" /> <br><br> <!-- Stats --><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" /><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" /> </div> 
+---
+
+# 🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" /> </div> ---
 
 ## 📈 Contribution Activity
 
