@@ -34,19 +34,9 @@ public class Lavanya {
     String challenge   = "100 Days of Code 🔥";
     String goal        = "Software Engineer @ a product-driven company";
     String funFact     = "I debug with coffee ☕ and commit at midnight 🌙";
-
-    String[] currentlyBuilding = {
-        "CodeQuest Arena — a multi-game browser hub with dark-neon UI",
-        "Personal portfolio site — dark gold/rose editorial theme + VFX",
-        "Java DSA structured repository",
-        "LeetCode daily problem solving"
     };
 
-    String[] leadership = {
-        "ACM CSR Core Member",
-        "Edge Pod Lead",
-        "Class Representative"
-    };
+    String currentFocus = "Building projects & solving LeetCode";
 }
 ```
 
@@ -104,14 +94,35 @@ public class Lavanya {
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
+
 <div align="center">
-<!-- Profile Summary --><img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaag23&theme=tokyonight" /> <br><br>
-<!-- Repositories & Languages --><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanyaag23&theme=tokyonight" /><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavanyaag23&theme=tokyonight" /> <br><br> <!-- Stats --><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" /><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" /> </div> 
----
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 # 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" /> </div> ---
+<div align="center"> <img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" /> </div> 
+---
 
 ## 📈 Contribution Activity
 
