@@ -104,63 +104,13 @@ public class Lavanya {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaag23&theme=tokyonight" />
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavanyaag23&theme=tokyonight" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavanyaag23&theme=tokyonight" />
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+ <!-- Stats --><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight" /><img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5" /> </div> --- # 🔥 GitHub Streak <div align="center"> <img src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" /> </div> --- # 📈 Contribution Activity <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" /> </div> ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lavanyaag23/lavanyaag23/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>✨ Powered by the <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">snake action</a> — add this workflow to your profile repo to activate it.</sub>
 
 </div>
 
