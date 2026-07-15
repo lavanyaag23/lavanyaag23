@@ -131,16 +131,6 @@ public class Lavanya {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lavanyaag23&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
