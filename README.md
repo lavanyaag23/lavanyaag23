@@ -134,13 +134,6 @@ public class Lavanya {
 </div>
 
 <br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
