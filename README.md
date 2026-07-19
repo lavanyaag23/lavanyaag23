@@ -103,13 +103,17 @@ public class Lavanya {
 > 💡 **Currently shipping:** CodeQuest Arena and my portfolio site — both actively iterated on, live, and evolving weekly.
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavanyaag23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyaag23&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavanyaag23&theme=tokyonight"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lavanyaag23&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lavanyaag23&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -117,7 +121,15 @@ public class Lavanya {
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=lavanyaag23&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lavanyaag23&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
