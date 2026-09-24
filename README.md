@@ -180,13 +180,12 @@ public class Lavanya {
 </div>
 
 ---
-
 ## 📈 2026 Goals
 
 | Goal | Status |
 |------|:------:|
-| 🎯 Solve 200+ DSA problems | 🔄 In Progress |
-| 🔥 Complete 100 Days of Code | 🔄 In Progress |
+| 🎯 Solve 200+ DSA problems | ✅ Completed |
+| 🔥 Complete 100 Days of Code | ✅ Completed |
 | ☕ Strengthen Java fundamentals | 🔄 In Progress |
 | 🛠️ Build 3+ projects | 🔄 In Progress |
 | 🤝 Contribute to open source | 🔄 In Progress |
